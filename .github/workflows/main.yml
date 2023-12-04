@@ -16,4 +16,3 @@ jobs:
 
       - name: game Counter
         run: python time.py
-        run: unlimited time 9999999999
